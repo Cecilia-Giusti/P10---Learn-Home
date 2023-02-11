@@ -17,6 +17,11 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 <a href="https://www.figma.com/file/iLY9pyGgo4AbmPY7mRh1XI/Maquette-Learn%40home?node-id=2%3A2&t=JGjoGRSDVWvkn3xd-0"> Voir la maquette
 </a>
 
+<h3>Tableau Kanban: </h3>
+<a href="https://github.com/users/Cecilia-Giusti/projects/1"> Voir la tableau
+</a>
+
+
 
 
 
